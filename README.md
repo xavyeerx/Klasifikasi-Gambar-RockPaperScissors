@@ -3,7 +3,7 @@ Repository ini berisi kode dan dataset untuk melatih model klasifikasi gambar ya
 <h1>Dataset</h1>
 Dataset yang digunakan dalam proyek ini terdiri dari gambar-gambar tangan yang menunjukkan simbol batu, kertas, dan gunting. Dataset ini telah dibagi menjadi tiga kelas: "rock", "paper", dan "scissors".
 <h1>Penggunaan</h1>
-1. Pra-pemrosesan Data<p></p>
-2. Pelatihan Model<p></p>
-3. Evaluasi Model<p></p>
-4. Prediksi
+1. Pra-pemrosesan Data<br>
+2. Pelatihan Model<br>
+3. Evaluasi Model<br>
+4. Prediksi<br>
